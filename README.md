@@ -32,6 +32,3 @@ make
 ```
 
 This creates the binaries test_all and main.
-
-Make sure your builds are not failing! <br/>
-*Left Sidebar > CI /CD > Pipelines*
